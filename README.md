@@ -6,3 +6,5 @@ Drafted with the unbelievably amazing [SolveSpace](http://solvespace.com/index.p
 Laser cut job w/recommended material (~9.5mm birch ply) @ [Pololu](https://www.pololu.com/laserquote/1J39041/6f7e85a8)
 
 Pics @ [flickr](https://www.flickr.com/photos/quaestor/albums/72157690877847445)
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/quaestor/38992729971/in/album-72157690877847445/" title="Untitled"><img src="https://farm5.staticflickr.com/4637/38992729971_44264f27e6_k.jpg" alt="Photo of case"></a>
