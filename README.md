@@ -1,5 +1,5 @@
 # Modular-case
-Custom designed 3Ux84hp Eurorack case. Designed for TipTop Audio [Z-Rrails](http://www.tiptopaudio.com/zrails.php).
+Custom designed 3Ux84hp Eurorack case. Designed for TipTop Audio [Z-Rrails](http://www.tiptopaudio.com/zrails.php) and [μZeus](http://www.tiptopaudio.com/zeusmicro.php) Flying Bus Boards (i.e. **not** "hard" power bus boards. The design could easily (probably) be modified to include a back or bottom which would allow them).
 
 Drafted with the unbelievably amazing [SolveSpace](http://solvespace.com/index.pl)
 
